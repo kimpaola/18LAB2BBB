@@ -1,0 +1,25 @@
+body {
+	background: url(../images/bg-img-1.jpg) ;
+	background-position: center;
+}
+ul{
+	background: black;
+	float: right;
+	padding: 25px ;
+	padding-right:  20px;
+	
+}
+li :hover{
+	color: black;
+	display: inline-block;
+	padding-right: 10px;
+}
+li{
+	color: #F5F5F5;
+	display: inline-block;
+	padding-right: 10px;
+}
+.portada{
+	color: #FB8E04 ;
+	padding-top: 150px;
+}
